@@ -1,4 +1,4 @@
-/* Slider area Design Start Here */
+/* Slider area Start*/
 
 .carousel-item{
   position: relative;
@@ -21,7 +21,7 @@
 }
 
 
-.slider-content-center{
+.slider-text-center{
  position: absolute;
  left: 0;
  top: 0;
@@ -37,7 +37,7 @@
   
 }
 
-.slider-content-center::after{
+.slider-text-center::after{
  position: absolute;
  content: "";
  width: 100%;
@@ -46,7 +46,7 @@
  opacity: 0.50;
  z-index: -1;  
 }
-/* Slider area Design End Here */ 
+/* Slider area End*/ 
 
   
 
